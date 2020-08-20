@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-food",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/style.css -o public/main.css"
+  },
+  "keywords": [],
+  "author": "Md Javed Akhtar",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.7.2"
+  }
+}
